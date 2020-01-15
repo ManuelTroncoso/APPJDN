@@ -3,7 +3,7 @@ This is an App for a volunteer group.
 
 In this app I am trying collect all the needs for developer of your diarly work.
 
-##First Screen
+## First Screen
 Just button for decide what you want to do 
 
 
