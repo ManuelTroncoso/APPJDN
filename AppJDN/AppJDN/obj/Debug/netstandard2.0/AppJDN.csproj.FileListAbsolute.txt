@@ -1,0 +1,15 @@
+D:\Proyectos\AppJDN\AppJDN\AppJDN\bin\Debug\netstandard2.0\AppJDN.deps.json
+D:\Proyectos\AppJDN\AppJDN\AppJDN\bin\Debug\netstandard2.0\AppJDN.dll
+D:\Proyectos\AppJDN\AppJDN\AppJDN\bin\Debug\netstandard2.0\ref\AppJDN.dll
+D:\Proyectos\AppJDN\AppJDN\AppJDN\bin\Debug\netstandard2.0\AppJDN.pdb
+D:\Proyectos\AppJDN\AppJDN\AppJDN\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Proyectos\AppJDN\AppJDN\AppJDN\obj\Debug\netstandard2.0\AppJDN.AssemblyInfoInputs.cache
+D:\Proyectos\AppJDN\AppJDN\AppJDN\obj\Debug\netstandard2.0\AppJDN.AssemblyInfo.cs
+D:\Proyectos\AppJDN\AppJDN\AppJDN\obj\Debug\netstandard2.0\AppJDN.dll
+D:\Proyectos\AppJDN\AppJDN\AppJDN\obj\Debug\netstandard2.0\ref\AppJDN.dll
+D:\Proyectos\AppJDN\AppJDN\AppJDN\obj\Debug\netstandard2.0\AppJDN.pdb
+D:\Proyectos\AppJDN\AppJDN\AppJDN\obj\Debug\netstandard2.0\AppJDN.csprojAssemblyReference.cache
+D:\Proyectos\AppJDN\AppJDN\AppJDN\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Proyectos\AppJDN\AppJDN\AppJDN\obj\Debug\netstandard2.0\Frm\MainPage.xaml.g.cs
+D:\Proyectos\AppJDN\AppJDN\AppJDN\obj\Debug\netstandard2.0\Frm\Description.xaml.g.cs
+D:\Proyectos\AppJDN\AppJDN\AppJDN\obj\Debug\netstandard2.0\Frm\AllActivity.xaml.g.cs
